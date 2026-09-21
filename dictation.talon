@@ -15,7 +15,7 @@ space key:
     # help: Press the space key
     key(space)
 
-press [the] [combo] <key> key [[repeated] <number_small> [times]]:
+press [the] [combo] <key> [key] [[repeated] <number_small> [times]]:
     # help: Press the key(s)
     number_small = number_small or 1
     key(key)
