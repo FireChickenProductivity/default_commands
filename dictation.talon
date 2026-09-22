@@ -4,6 +4,10 @@ type <phrase> | literal <phrase> | say <phrase>:
     # help: Type the phrase
     dictate.phrase(phrase)
 
+period: ". "
+
+phrase <phrase>: insert("{phrase} ")
+
 insert [today's] date:
     # help: Insert today's date
     # TODO: make date format a setting? or use locale?
