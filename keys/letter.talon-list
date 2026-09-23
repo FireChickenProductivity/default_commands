@@ -1,54 +1,55 @@
 list: letter
 -
 alpha: a
-a: a
 bravo: b
-b: b
 charlie: c
-c: c
 delta: d
-d: d
 echo: e
-e: e
 foxtrot: f
-f: f
 golf: g
-g: g
 hotel: h
-h: h
 india: i
-i: i
 juliet: j
-j: j
 kilo: k
-k: k
 lima: l
-l: l
 mike: m
-m: m
 november: n
-n: n
 oscar: o
-o: o
 papa: p
-p: p
 quebec: q
-q: q
 romeo: r
-r: r
 sierra: s
-s: s
 tango: t
-t: t
 uniform: u
-u: u
 victor: v
-v: v
 whiskey: w
-w: w
 xray: x
-x: x
 yankee: y
-y: y
 zulu: z
-z: z
+
+a
+b
+c
+d
+e
+f
+g
+h
+i
+j
+k
+l
+m
+n
+o
+p
+q
+r
+s
+t
+u
+v
+w
+x
+y
+z
